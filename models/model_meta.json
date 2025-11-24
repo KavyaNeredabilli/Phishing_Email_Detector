@@ -1,0 +1,1 @@
+{"model": "tfidf_logreg_baseline", "trained_on": "bootstrapped_examples", "ngram_range": [1, 2]}

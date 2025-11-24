@@ -1,0 +1,213 @@
+[
+  {
+    "timestamp": "2025-05-07 23:51:33",
+    "subject": "Urgent: Your Account Has Been Suspended",
+    "content": "Dear Customer,\r\n\r\nWe noticed suspicious activity in your PayPal account and have temporarily suspended it to protect your information.\r\n\r\nPlease verify your account immediately by clicking the link below:\r\n\ud83d\udc49 Verify Now\r\n\r\nFailure to do so within 24 hours will result in permanent account closure.\r\n\r\nThank you for your prompt attention to this matter.\r\n\r\nSincerely,\r\nPayPal Security Team",
+    "prediction": "Phishing",
+    "confidence": 72.0917079487649
+  },
+  {
+    "timestamp": "2025-05-08 00:19:09",
+    "subject": "Urgent: Your Account Has Been Suspended",
+    "content": "Dear Customer,\r\n\r\nWe noticed suspicious activity in your PayPal account and have temporarily suspended it to protect your information.\r\n\r\nPlease verify your account immediately by clicking the link below:\r\n\ud83d\udc49 Verify Now\r\n\r\nFailure to do so within 24 hours will result in permanent account closure.\r\n\r\nThank you for your prompt attention to this matter.\r\n\r\nSincerely,\r\nPayPal Security Team",
+    "prediction": "Phishing",
+    "confidence": 72.0917079487649
+  },
+  {
+    "timestamp": "2025-05-08 00:31:30",
+    "subject": "Urgent: Your Account Security Update Required",
+    "content": "Dear Valued Customer,\r\n\r\nWe have detected unusual activity on your account. Please verify your identity immediately by clicking the following link and updating your information: http://secure-banking-verify.com\r\n\r\nFailure to do so within 24 hours will result in account suspension.\r\n\r\nBest regards,\r\nAccount Security Team",
+    "prediction": "Phishing",
+    "confidence": 72.81714560431905
+  },
+  {
+    "timestamp": "2025-05-08 00:32:00",
+    "subject": "Urgent: Your Account Has Been Suspended",
+    "content": "Dear Customer,\r\n\r\nWe noticed suspicious activity in your PayPal account and have temporarily suspended it to protect your information.\r\n\r\nPlease verify your account immediately by clicking the link below:\r\n\ud83d\udc49 Verify Now\r\n\r\nFailure to do so within 24 hours will result in permanent account closure.\r\n\r\nThank you for your prompt attention to this matter.\r\n\r\nSincerely,\r\nPayPal Security Team",
+    "prediction": "Phishing",
+    "confidence": 72.0917079487649
+  },
+  {
+    "timestamp": "2025-05-08 00:33:30",
+    "subject": "Transaction alert for your ICICI Bank Mobile Banking",
+    "content": "Dear Customer,\r\nYou have made a payment of \u20b9 44009.85 using iMobile towards XXXXXXXXXXXX9006 from your Account XXXXXXXXX087. The payment was initiated through Transaction ID : 1008072161 on May 07, 2025 at 10:51 hours.\r\nIn case you have not done this transaction,please call our Customer care.\r\nNever share your OTP, URN, CVV or passwords with anyone even if the person claims to be a bank employee.\r\n\r\nSincerely,\r\nTeam ICICI Bank\r\nThis is a auto-generated e-mail. Please do not reply to this e-mail.",
+    "prediction": "Phishing",
+    "confidence": 61.30678241492012
+  },
+  {
+    "timestamp": "2025-05-08 15:01:32",
+    "subject": "Urgent: Your Account Security Update Required",
+    "content": "Dear Valued Customer,\r\n\r\nWe have detected unusual activity on your account. Please verify your identity immediately by clicking the following link and updating your information: http://secure-banking-verify.com\r\n\r\nFailure to do so within 24 hours will result in account suspension.\r\n\r\nBest regards,\r\nAccount Security Team",
+    "prediction": "Phishing",
+    "confidence": 72.81714560431905
+  },
+  {
+    "timestamp": "2025-05-08 15:02:23",
+    "subject": "Urgent: Your Account Security Update Required",
+    "content": "Dear Valued Customer,\r\n\r\nWe have detected unusual activity on your account. Please verify your identity immediately by clicking the following link and updating your information: http://secure-banking-verify.com\r\n\r\nFailure to do so within 24 hours will result in account suspension.\r\n\r\nBest regards,\r\nAccount Security Team",
+    "prediction": "Phishing",
+    "confidence": 72.81714560431905
+  },
+  {
+    "timestamp": "2025-05-08 15:03:41",
+    "subject": "E-account statement for your SBI account(s).",
+    "content": "Dear Mr. Vamsee Krishna Gopal Gudur,\r\n\r\nYour account(s) details are available at your fingertips. You can view them online whenever required. For your convenience, please find attached your latest monthly statement.\r\n\r\nYour e-account statement is protected by a password, which is the last five digits of customer registered mobile number and date of birth (DOB) in DDMMYY format registered with Bank, for example if mobile number is XXXXX12345 and DOB is 16th September 1982 then password will be 12345160982.\r\n\r\nIn case of any issues, please lodge a complaint online at contactcentre@sbi.co.in or by calling our 1800 1234 or 1800 2100 toll free numbers or by contacting your home branch.\r\n\r\nWith Best Regards,\r\nTeam SBI\r\n\r\n** Please note: You will need Adobe Acrobat to open the attachment. Please do not reply to this email as it is a computer generated email.",
+    "prediction": "Phishing",
+    "confidence": 60.283125513507855
+  },
+  {
+    "timestamp": "2025-07-08 16:00:59",
+    "subject": "Urgent: Your Account Will Be Suspended",
+    "content": "Dear Customer,\r\n\r\nWe have detected unusual activity in your Amazon account. To protect your account, we are temporarily suspending it until we can verify your identity.\r\n\r\nTo avoid permanent suspension, please verify your information immediately by clicking the link below:\r\n\r\n\ud83d\udc49 Verify Now\r\n\r\nFailure to verify within 24 hours will result in account termination.\r\n\r\nThank you for your prompt attention to this matter.\r\n\r\nSincerely,\r\nAmazon Security Team",
+    "prediction": "Phishing",
+    "confidence": 71.04523850585636
+  },
+  {
+    "timestamp": "2025-07-09 12:57:44",
+    "subject": "Urgent: Your Account Security Update Required",
+    "content": "Dear Valued Customer,\r\n\r\nWe have detected unusual activity on your account. Please verify your identity immediately by clicking the following link and updating your information: http://secure-banking-verify.com\r\n\r\nFailure to do so within 24 hours will result in account suspension.\r\n\r\nBest regards,\r\nAccount Security Team",
+    "prediction": "Phishing",
+    "confidence": 72.81714560431905
+  },
+  {
+    "timestamp": "2025-07-11 13:20:34",
+    "subject": "Urgent: Your Account Security Update Required",
+    "content": "Dear Valued Customer,\r\n\r\nWe have detected unusual activity on your account. Please verify your identity immediately by clicking the following link and updating your information: http://secure-banking-verify.com\r\n\r\nFailure to do so within 24 hours will result in account suspension.\r\n\r\nBest regards,\r\nAccount Security Team",
+    "prediction": "Phishing",
+    "confidence": 72.81714560431905
+  },
+  {
+    "timestamp": "2025-08-26 16:21:42",
+    "subject": "Important updates in Gemini Apps",
+    "content": "Introducing temporary chats and new data controls\r\nHi One,\r\nTo help you manage and remain in control of your data, we are introducing a new feature in Gemini Apps called Temporary Chat and updating your data controls in Gemini Apps activity.\r\n\u2022\tTemporary chats: With this new feature rolling out over the coming days, you'll be able to quickly start a new chat with Gemini that won't be used to personalise future chats or train models. Temporary chats also won't appear in Recent chats or Gemini Apps activity. They'll be saved for 72 hours so that Gemini can respond to you and for safety purposes. Learn how to start a temporary chat.\r\n\u2022\tYour uploads: We're also updating our data handling practices for uploads. In the coming weeks, we'll update the name of the Gemini Apps activity setting on the Gemini Apps activity page to 'Keep activity'. If this setting is on, you can see your past chats in Recent chats and in Gemini Apps activity, and pick them up where you left off at any time. A subset of uploads submitted starting from 2 September \u2013 like files, videos, screens that you ask about and photos shared with Gemini \u2013 will also be used to help improve Google services for everyone. To stop this, you can turn off Keep activity. You can also manage and delete your activity at any time. And, if your Gemini Apps activity setting is currently off, your Keep activity setting will remain off unless you turn it on.\r\n\u2022\tYour Gemini audio and Gemini Live recordings: With this new setting rolling out in Gemini Apps activity over the coming days, you can choose to improve Google services for everyone with your Gemini audio and Gemini Live recordings. Gemini audio includes audio collected when you click the microphone button. Gemini Live recordings include audio, video and screenshares. This new setting is off by default, but you can turn it on at any time.\r\nAs before, when Google uses your activity to improve its services (including training generative AI models), it gets help from human reviewers. To protect your privacy, we disconnect chats from your account before sending them to service providers. In alignment with our privacy principles, we build technical data protections that safeguard and ensure the responsible use of data and provide you with tools to control your Gemini experience. You can learn more in the Gemini Apps Privacy Notice and the Gemini Apps Privacy Hub. Google's Generative AI Prohibited Use Policy applies.\r\nSincerely,\r\nThe Gemini Team\r\n",
+    "prediction": "Legitimate",
+    "confidence": 60.709168627572815
+  },
+  {
+    "timestamp": "2025-08-26 16:23:51",
+    "subject": "Important updates in Gemini Apps",
+    "content": "Introducing temporary chats and new data controls\r\nHi One,\r\nTo help you manage and remain in control of your data, we are introducing a new feature in Gemini Apps called Temporary Chat and updating your data controls in Gemini Apps activity.\r\n\u2022\tTemporary chats: With this new feature rolling out over the coming days, you'll be able to quickly start a new chat with Gemini that won't be used to personalise future chats or train models. Temporary chats also won't appear in Recent chats or Gemini Apps activity. They'll be saved for 72 hours so that Gemini can respond to you and for safety purposes. Learn how to start a temporary chat.\r\n\u2022\tYour uploads: We're also updating our data handling practices for uploads. In the coming weeks, we'll update the name of the Gemini Apps activity setting on the Gemini Apps activity page to 'Keep activity'. If this setting is on, you can see your past chats in Recent chats and in Gemini Apps activity, and pick them up where you left off at any time. A subset of uploads submitted starting from 2 September \u2013 like files, videos, screens that you ask about and photos shared with Gemini \u2013 will also be used to help improve Google services for everyone. To stop this, you can turn off Keep activity. You can also manage and delete your activity at any time. And, if your Gemini Apps activity setting is currently off, your Keep activity setting will remain off unless you turn it on.\r\n\u2022\tYour Gemini audio and Gemini Live recordings: With this new setting rolling out in Gemini Apps activity over the coming days, you can choose to improve Google services for everyone with your Gemini audio and Gemini Live recordings. Gemini audio includes audio collected when you click the microphone button. Gemini Live recordings include audio, video and screenshares. This new setting is off by default, but you can turn it on at any time.\r\nAs before, when Google uses your activity to improve its services (including training generative AI models), it gets help from human reviewers. To protect your privacy, we disconnect chats from your account before sending them to service providers. In alignment with our privacy principles, we build technical data protections that safeguard and ensure the responsible use of data and provide you with tools to control your Gemini experience. You can learn more in the Gemini Apps Privacy Notice and the Gemini Apps Privacy Hub. Google's Generative AI Prohibited Use Policy applies.\r\nSincerely,\r\nThe Gemini Team\r\n",
+    "prediction": "Legitimate",
+    "confidence": 60.709168627572815
+  },
+  {
+    "timestamp": "2025-08-26 17:48:48",
+    "subject": "E-account statement for your SBI account(s).",
+    "content": "Dear Mr. Vamsee Krishna Gopal Gudur,\r\n\r\nYour account(s) details are available at your fingertips. You can view them online whenever required. For your convenience, please find attached your latest monthly statement.\r\n\r\nYour e-account statement is protected by a password, which is the last five digits of customer registered mobile number and date of birth (DOB) in DDMMYY format registered with Bank, for example if mobile number is XXXXX12345 and DOB is 16th September 1982 then password will be 12345160982.\r\n\r\nIn case of any issues, please lodge a complaint online at contactcentre@sbi.co.in or by calling our 1800 1234 or 1800 2100 toll free numbers or by contacting your home branch.\r\n\r\nWith Best Regards,\r\nTeam SBI\r\n\r\n** Please note: You will need Adobe Acrobat to open the attachment. Please do not reply to this email as it is a computer generated email.",
+    "prediction": "Phishing",
+    "confidence": 0.5637,
+    "model": "tfidf_logreg_baseline"
+  },
+  {
+    "timestamp": "2025-08-27 19:53:06",
+    "subject": "Subject: Urgent \u2013 Verify Your Account Immediately",
+    "content": "\r\n\r\nDear Customer,  \r\n\r\nWe detected unusual activity in your account.  \r\nPlease verify your identity within 24 hours to avoid suspension.  \r\n\r\nClick the link below to continue:  \r\nhttp://secure-login-paypal.com/verify  \r\n\r\nThank you,  \r\nPayPal Security Team\r\n",
+    "prediction": "Phishing",
+    "confidence": 0.5925,
+    "model": "tfidf_logreg_baseline"
+  },
+  {
+    "timestamp": "2025-08-27 19:54:41",
+    "subject": "Subject: Urgent: Verify Your Account Immediately",
+    "content": "Dear Customer,\r\n\r\nWe have noticed suspicious activity on your PayPal account.  \r\nFor your security, you must verify your identity within 24 hours,  \r\notherwise your account will be temporarily suspended.\r\n\r\nPlease click the link below to continue verification:  \r\nhttp://secure-paypal-verification.example.com/login  \r\n\r\nFailure to act may result in permanent account restrictions.\r\n\r\nThank you for your prompt attention,  \r\nPayPal Security Team",
+    "prediction": "Phishing",
+    "confidence": 0.6169,
+    "model": "tfidf_logreg_baseline"
+  },
+  {
+    "timestamp": "2025-08-27 19:58:45",
+    "subject": "Your Amazon Order Has Shipped",
+    "content": "\r\n\r\nDear Customer,\r\nYour order #123-4567890 has been shipped. \r\nTrack your package here: https://www.amazon.in/gp/your-orders\r\n\r\nThank you for shopping with Amazon!\r\n",
+    "prediction": "Legitimate",
+    "confidence": 0.5524,
+    "model": "tfidf_logreg_baseline"
+  },
+  {
+    "timestamp": "2025-08-27 20:17:47",
+    "subject": "Your Amazon Order Has Shipped",
+    "content": "\r\n\r\nDear Customer,\r\nYour order #123-4567890 has been shipped. \r\nTrack your package here: https://www.amazon.in/gp/your-orders\r\n\r\nThank you for shopping with Amazon!\r\n",
+    "prediction": "Legitimate",
+    "confidence": 0.3133,
+    "model": "tfidf_logreg_baseline"
+  },
+  {
+    "timestamp": "2025-08-27 20:17:58",
+    "subject": "Subject: Urgent: Verify Your Account Immediately",
+    "content": "Dear Customer,\r\n\r\nWe have noticed suspicious activity on your PayPal account.  \r\nFor your security, you must verify your identity within 24 hours,  \r\notherwise your account will be temporarily suspended.\r\n\r\nPlease click the link below to continue verification:  \r\nhttp://secure-paypal-verification.example.com/login  \r\n\r\nFailure to act may result in permanent account restrictions.\r\n\r\nThank you for your prompt attention,  \r\nPayPal Security Team",
+    "prediction": "Legitimate",
+    "confidence": 0.4918,
+    "model": "tfidf_logreg_baseline"
+  },
+  {
+    "timestamp": "2025-08-27 20:18:45",
+    "subject": "",
+    "content": "Dear Customer,\r\n\r\nWe have noticed suspicious activity on your PayPal account.  \r\nFor your security, you must verify your identity within 24 hours,  \r\notherwise your account will be temporarily suspended.\r\n\r\nPlease click the link below to continue verification:  \r\nhttp://www.google.com \r\n\r\nFailure to act may result in permanent account restrictions.\r\n\r\nThank you for your prompt attention,  \r\nPayPal Security Team",
+    "prediction": "Legitimate",
+    "confidence": 0.4041,
+    "model": "tfidf_logreg_baseline"
+  },
+  {
+    "timestamp": "2025-08-27 20:19:58",
+    "subject": "Urgent: Verify Your Amazon Account",
+    "content": "Dear Customer,\r\n\r\nWe noticed unusual activity in your Amazon account.\r\nFor your security, your account will be temporarily suspended unless you verify your information.\r\n\r\nPlease click the link below to verify your account immediately:\r\n\ud83d\udc49 http://amaz0n-security.com/verify\r\n\r\nFailure to verify may result in permanent suspension.\r\n\r\nThank you for your prompt attention,\r\nAmazon Security Team",
+    "prediction": "Legitimate",
+    "confidence": 0.489,
+    "model": "tfidf_logreg_baseline"
+  },
+  {
+    "timestamp": "2025-08-27 20:30:51",
+    "subject": "Urgent: Verify Your Amazon Account",
+    "content": "Dear Customer,\r\n\r\nWe noticed unusual activity in your Amazon account.\r\nFor your security, your account will be temporarily suspended unless you verify your information.\r\n\r\nPlease click the link below to verify your account immediately:\r\n\ud83d\udc49 http://amaz0n-security.com/verify\r\n\r\nFailure to verify may result in permanent suspension.\r\n\r\nThank you for your prompt attention,\r\nAmazon Security Team",
+    "prediction": "Phishing",
+    "confidence": 0.489,
+    "model": "tfidf_logreg_baseline"
+  },
+  {
+    "timestamp": "2025-08-27 20:31:50",
+    "subject": "Your Amazon Order Has Shipped",
+    "content": "Hello [Name],\r\nYour order #123-4567890-9876543 has been shipped and will be delivered by 29 August 2025.\r\n\r\n\ud83d\udc49 Track your package here: amazon.in/your-orders\r\n\r\nThank you for shopping with us.\r\n\r\n\u2013 The Amazon Team",
+    "prediction": "Legitimate",
+    "confidence": 0.3041,
+    "model": "tfidf_logreg_baseline"
+  },
+  {
+    "timestamp": "2025-08-27 20:32:37",
+    "subject": "Urgent! Your Amazon Account Will Be Suspended",
+    "content": "Dear Customer,\r\nWe have noticed unusual activity in your account. To avoid suspension, please verify your account immediately.\r\n\r\n\ud83d\udc49 Click here to verify: http://amaz0n-security-check.com/login\r\n\r\nFailure to do so within 24 hours will result in permanent account suspension.\r\n\r\n\u2013 Amazon Security Team",
+    "prediction": "Phishing",
+    "confidence": 0.505,
+    "model": "tfidf_logreg_baseline"
+  },
+  {
+    "timestamp": "2025-08-27 20:34:10",
+    "subject": "One of your Qrs has been scanned",
+    "content": "\r\nQRFY\r\nOne of your QRs received a scan but it was disabled\r\nWe're glad to see that your QR Codes have been generating interest and activity! \r\n\r\nTo reactivate your QR Codes and unlock the full potential of QRFY, we recommend upgrading to one of our affordable paid plans.\r\n\r\n \r\n\r\nBy upgrading to a paid plan, you will gain access to all the powerful features QRFY has to offer, including unlimited QR Code creation, detailed scan statistics, custom branding options, and more.\r\n\r\nWe understand that you may have questions or need assistance in choosing the right plan for your needs. Our dedicated support team is here to help and provide any guidance you may require.\r\n \r\n\r\nTo upgrade your account and reactivate your QR Codes, simply click on the button below:\r\n\r\nUpgrade now\r\nOnce you upgrade, you'll be able to explore the full potential of QRFY and continue using your QR Codes seamlessly.\r\n\r\n \r\n\r\nIf you have any queries or concerns, please don't hesitate to answer this email to contact our support team.\r\n\r\n \r\n\r\nWe look forward to assisting you further and helping you make the most of your QR Codes!\r\n\r\n \r\n\r\nBest regards,\r\n\r\nThe QRFY Team\r\n\r\nUnsubscribe\r\n\r\n",
+    "prediction": "Legitimate",
+    "confidence": 0.3306,
+    "model": "tfidf_logreg_baseline"
+  },
+  {
+    "timestamp": "2025-08-27 21:24:26",
+    "subject": "One of your Qrs has been scanned",
+    "content": "\r\nQRFY\r\nOne of your QRs received a scan but it was disabled\r\nWe're glad to see that your QR Codes have been generating interest and activity! \r\n\r\nTo reactivate your QR Codes and unlock the full potential of QRFY, we recommend upgrading to one of our affordable paid plans.\r\n\r\n \r\n\r\nBy upgrading to a paid plan, you will gain access to all the powerful features QRFY has to offer, including unlimited QR Code creation, detailed scan statistics, custom branding options, and more.\r\n\r\nWe understand that you may have questions or need assistance in choosing the right plan for your needs. Our dedicated support team is here to help and provide any guidance you may require.\r\n \r\n\r\nTo upgrade your account and reactivate your QR Codes, simply click on the button below:\r\n\r\nUpgrade now\r\nOnce you upgrade, you'll be able to explore the full potential of QRFY and continue using your QR Codes seamlessly.\r\n\r\n \r\n\r\nIf you have any queries or concerns, please don't hesitate to answer this email to contact our support team.\r\n\r\n \r\n\r\nWe look forward to assisting you further and helping you make the most of your QR Codes!\r\n\r\n \r\n\r\nBest regards,\r\n\r\nThe QRFY Team\r\n\r\nUnsubscribe\r\n\r\n",
+    "prediction": "Legitimate",
+    "confidence": 0.3306,
+    "model": "tfidf_logreg_baseline"
+  },
+  {
+    "timestamp": "2025-11-09 22:41:03",
+    "subject": "  Urgent: Your Account Security Update Required",
+    "content": "Dear Valued Customer,\r\n\r\nWe have detected unusual activity on your account. Please verify your identity immediately by clicking the following link and updating your information: http://secure-banking-verify.com\r\n\r\nFailure to do so within 24 hours will result in account suspension.\r\n\r\nBest regards,\r\nAccount Security Team",
+    "prediction": "Phishing",
+    "confidence": 0.497,
+    "model": "tfidf_logreg_baseline"
+  },
+  {
+    "timestamp": "2025-11-09 22:46:03",
+    "subject": "Urgent: Your Account Security Update Required",
+    "content": "Dear Valued Customer,\r\n\r\nWe have detected unusual activity on your account. Please verify your identity immediately by clicking the following link and updating your information: http://secure-banking-verify.com\r\n\r\nFailure to do so within 24 hours will result in account suspension.\r\n\r\nBest regards,\r\nAccount Security Team",
+    "prediction": "Phishing",
+    "confidence": 0.497,
+    "model": "tfidf_logreg_baseline"
+  }
+]
