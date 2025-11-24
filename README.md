@@ -1,4 +1,4 @@
-# PhishGuard - Flask Phishing Detection App
+# Phishing_Email_Detector - Flask Phishing Detection App
 
 A simple, production-friendly Flask app for phishing detection with:
 
